@@ -63,3 +63,13 @@
         </li>
     </ol>
 </ul>
+
+
+
+# AUTHOR
+Created at 🌙 by HamdiAAA
+- my profile : [Hamdi Mohamed ](https://github.com/HamdiAAA).
+### 2021 FUN FACTS : 
+- Lost in space by netfilx is the best show for 2022.
+- NextJs is my new go to tech ❤.
+- Elder ring is the game of the year ❤ .
