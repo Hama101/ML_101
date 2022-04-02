@@ -60,11 +60,93 @@
                     NB : NN is not modeled after the human brain !
             </strong>
             <br><br>
+            <strong>++Data data so what i mean by data?</strong>
+        </li>
+        <br/>
+        <br/>
+        <li>
+            <strong>Data</strong>
+            To make things clear data and your data-set is the most important thing to make a good ML/DL model.
+            <br/>
+            <br/>
+            --> Example of a data-set:
+            <br/>
+            <br/>
+            <img src="./images/notes.png">
+            <br/>
+            for example if we had a student's MID 1 and FINAL how can we predict the MID2
+            <strong style="color:orange;border:1px solid black; display: grid;place-items: center;">
+                    NB : <br/>
+                    **Input data called features.** <br/>
+                    **Output data called labels.**
+            </strong>
+            <br/>
+            --> In this case MID1 and FINAL are features.<br/>
+            --> MID2 are lables.
+            <br/>
+            <br/>
+            <strong style="color:orange;border:1px solid black; display: grid;place-items: center;">
+                    ==> And that's why data is the key to make a good model. 
+            </strong>
         </li>
     </ol>
 </ul>
+<br/><br/>
+<h1>Chapter 1 : In depth of ML</h1>
+<h3>Types of ML</h3>
+<ul>
+    <li>Supervised learning</li>
+    <li>Unsupervised learning</li>
+    <li>Reinforcement learning</li>
+</ul>
+<br/>
+<ol>
+<li>
+    <strong>Supervised learning</strong><br/>
+    Features -----> Label <br/><br/>
+    <img src="./images/s_learning.png">
+</li>
+<br/>
+<br/>
+<li>
+    <strong>Unsupervised learning</strong><br/>
+    Only the input data is given.<br/>
+    Features ----> <del>Lable</del><br/>
+    We want to the model to come up with the lables for us.
+    <strong style="color:orange;border:1px solid black; display: grid;place-items: center;">
+                    NB: I have to say even for me this feels wierd.
+    </strong>
+    <br/>
+    Let's explain it more :
+    <br/><br/>
+    <img src="./images/uns_l.png">
+    <br/><br/>
+    ---> Cluster this data or re-group this data. 
+</li>
+<br/>
+<br/>
+<li>
+    <strong>Reinforcement learning</strong><br/>
+    + Personally my best type of ML.<br/>
+    Let's picture a game:
+    <br/><br/>
+    <img src="./images/game.png">
+    <br/>
+    Objective is to get to the Flag.<br/>
+    So we make our Agent in an environment and give it reward when even it gets closer to the objective and we take the reward when even it gets further from it.<br/>
+    Depends on the reward our agent will devlop a knowledge of what to do and what not to do.
+    <br/><br/>
+    <strong style="color:orange;border:1px solid black; display: grid;place-items: center;">
+            NB: Most video game AIs uses this type of learning.
+    </strong>
+</li>
+
+</ol>
 
 
+
+<br/>
+<br/>
 
 # AUTHOR
 Created at 🌙 by HamdiAAA
